@@ -1,0 +1,5 @@
+# to run this file, use pip3 install -r requirements.txt
+# the '-r' flag allows 'pip install' to open this file and install the packages.
+
+scapy
+beautifulsoup4
