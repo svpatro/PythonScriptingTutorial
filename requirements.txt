@@ -2,4 +2,5 @@
 # the '-r' flag allows 'pip install' to open this file and install the packages.
 
 scapy
+virtualenv
 beautifulsoup4
